@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+error.log
+.agents/
+.agent/
+_agents/
+_agent/
+.DS_Store
